@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wingate</string>
+    <string name="btnMore">See More Info!</string>
+    <string name="txtTitle">Welcome to the Wingate</string>
+    <string name="imgDescription">Hotel Images</string>
+    <string name="txtInside">We have a nice inside lounge, conference rooms, complementary breakfast, and a weight room!</string>
+    <string name="txtRooms">We have rooms with one bed or two beds!</string>
+    <string name="btnBook">"Book Now! "</string>
+    <string name="txtBook">Book your reservation today!</string>
+    <string name="lblName">Name:</string>
+    <string name="hintName">Type name here</string>
+    <string name="lblRooms"># of Beds:</string>
+    <string name="hintRoom">Enter 1 or 2</string>
+    <string name="btnDate">Select a Date</string>
+    <string name="txtAddress">5480 South Main Street, Sylvania, Ohio 43560</string>
+</resources>
